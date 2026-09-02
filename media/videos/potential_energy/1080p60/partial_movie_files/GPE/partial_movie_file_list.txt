@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/CS (genius)/Git hub/Manim-Projects/media/videos/potential_energy/1080p60/partial_movie_files/GPE/3977891868_2595193102_223132457.mp4'
+file 'file:C:/CS (genius)/Git hub/Manim-Projects/media/videos/potential_energy/1080p60/partial_movie_files/GPE/2852726489_3839948470_327670676.mp4'
+file 'file:C:/CS (genius)/Git hub/Manim-Projects/media/videos/potential_energy/1080p60/partial_movie_files/GPE/2852726489_3648295234_2439162471.mp4'
+file 'file:C:/CS (genius)/Git hub/Manim-Projects/media/videos/potential_energy/1080p60/partial_movie_files/GPE/2852726489_1035119482_2394214163.mp4'
+file 'file:C:/CS (genius)/Git hub/Manim-Projects/media/videos/potential_energy/1080p60/partial_movie_files/GPE/2852726489_3890345977_1905058517.mp4'
+file 'file:C:/CS (genius)/Git hub/Manim-Projects/media/videos/potential_energy/1080p60/partial_movie_files/GPE/2852726489_3284287259_2113181197.mp4'
+file 'file:C:/CS (genius)/Git hub/Manim-Projects/media/videos/potential_energy/1080p60/partial_movie_files/GPE/2852726489_3890345977_1358676756.mp4'
+file 'file:C:/CS (genius)/Git hub/Manim-Projects/media/videos/potential_energy/1080p60/partial_movie_files/GPE/2852726489_3839343335_2119542749.mp4'
