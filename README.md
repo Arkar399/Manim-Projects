@@ -4,4 +4,4 @@ This is a compilation of code I used to generate physics simulations with manim 
 
 All videos produced by code in video_scripts has been uploaded to my TikTok account to easily present them to a wider audience.
 
-Account ---> https://www.tiktok.com/@z__math
+Account ---> https://www.tiktok.com/@z__math__
