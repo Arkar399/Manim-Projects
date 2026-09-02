@@ -1,4 +1,4 @@
-#Conservation of energy shown with a bouncing ball on a perfectly elastic plane
+#Distance changing with time at different speeds
 
 from manim import *
 import numpy as np
