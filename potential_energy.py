@@ -4,7 +4,7 @@ class GPE(Scene):
     def construct(self):
         mass = 5 #kg
         g = 9.81 #m/s^2
-        height = ValueTracker(0) # we demonstrate change of height affecting GPE
+        height = ValueTracker(0) # we demonstrate change of height affecting GPE 
 
         title = Text("GPE = mgh", font_size=48).to_edge(UP)
         ball = Circle(radius=0.5, stroke_color=RED, fill_color=RED_D, fill_opacity=0.5).shift(DOWN*1)
