@@ -1,0 +1,2 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/CS (genius)/Git hub/Manim-Projects/video_scripts/media/videos/part_2_(energy_conservation)/1080p60/partial_movie_files/EnergyConservation/3977891868_3794438852_4253667690.mp4'

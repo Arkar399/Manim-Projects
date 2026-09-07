@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/CS (genius)/Git hub/Manim-Projects/video_scripts/media/videos/part_1_(speeds)/1080p60/partial_movie_files/Speeds/3977891868_3158215818_223132457.mp4'
+file 'file:C:/CS (genius)/Git hub/Manim-Projects/video_scripts/media/videos/part_1_(speeds)/1080p60/partial_movie_files/Speeds/2852726489_1094962981_4008452738.mp4'
+file 'file:C:/CS (genius)/Git hub/Manim-Projects/video_scripts/media/videos/part_1_(speeds)/1080p60/partial_movie_files/Speeds/2852726489_2050996933_1917577561.mp4'
+file 'file:C:/CS (genius)/Git hub/Manim-Projects/video_scripts/media/videos/part_1_(speeds)/1080p60/partial_movie_files/Speeds/2852726489_590827172_2462449663.mp4'
+file 'file:C:/CS (genius)/Git hub/Manim-Projects/video_scripts/media/videos/part_1_(speeds)/1080p60/partial_movie_files/Speeds/2852726489_1959358871_3342115972.mp4'
+file 'file:C:/CS (genius)/Git hub/Manim-Projects/video_scripts/media/videos/part_1_(speeds)/1080p60/partial_movie_files/Speeds/2852726489_109541213_2891135971.mp4'
+file 'file:C:/CS (genius)/Git hub/Manim-Projects/video_scripts/media/videos/part_1_(speeds)/1080p60/partial_movie_files/Speeds/2852726489_270707960_2358810818.mp4'
