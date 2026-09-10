@@ -24,13 +24,13 @@ class Orbit(Scene):
             # MOVEMENT CALCULATIONS
         def update_planet(m, dt):
             vector = m.get_center() - star.get_center()
-            r_mag = np.linalg.norm(vector) #pythagoras theorem
+            vector_mag = np.linalg.norm(vector) #pythagoras theorem
 
-            if r_mag < r_star: #prevents collision
+            if vector_mag < r_star:             #prevents collision
                 return
             
-            unit_vector = vector/r_mag
-            a =  unit_vector * (-G * M / (r_mag**2))
+            unit_vector = vector/vector_mag
+            a =  unit_vector * (-G * M / vector_mag**2)
 
             m.velocity += a * dt
             m.move_to(m.get_center() + m.velocity * dt)

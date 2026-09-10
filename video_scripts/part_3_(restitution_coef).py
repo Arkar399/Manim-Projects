@@ -22,7 +22,7 @@ class RestitutionCoef(SpaceScene):
 
         for i, e in enumerate(e_list):
             ball = Circle(radius=r, stroke_color=colors[i], fill_opacity=0)
-            ball.move_to([-4.5 + i * 1.5, start_y, 0])
+            ball.move_to([-4.5 + i * spacing, start_y, 0])
             ball_list.append(ball)
 
         def add_ball(ball, e):
