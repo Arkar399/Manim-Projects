@@ -7,10 +7,10 @@ class Orbits(Scene):
         # values dont need to be to scale, just a demonstration
         G = 25
 
-        m_list = [11, 13, 17]
+        m_list = [11, 13, 17] #represents mass of its STAR
         c_list = ["#c2a96c", "#c94a40", "#5eb4c7"]
 
-        # SUN
+        # SUN dot
         sun = Dot(point=ORIGIN, radius=0.1, color=WHITE)
 
         # PLANETS
@@ -37,8 +37,7 @@ class Orbits(Scene):
             
             unit_vector = vector/vector_mag
 
-            softener = 0.1
-            a =  unit_vector * (-G*m.mass / (vector_mag**2 + softener))
+            a =  unit_vector * (-G*m.mass / (vector_mag**2))
 
             m.velocity += a * dt
             m.move_to(m.get_center() + m.velocity * dt)
