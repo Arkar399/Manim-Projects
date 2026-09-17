@@ -78,7 +78,7 @@ class ProjectileMotion(Scene):
                          color=WHITE, stroke_width=4, buff=0)
         horizontal_line = DashedLine(start=[start_x, start_y, 0], end=[start_x + v0 * np.cos(theta) * 0.15, start_y, 0],
                          color=WHITE, stroke_width=2, buff=0)
-        angle_display = Angle(v0_arrow, horizontal_line, radius=0.5, other_angle=True, color=WHITE, stroke_width=2)
+        angle_display = Angle(horizontal_line, v0_arrow, radius=0.5, color=WHITE, stroke_width=2)
 
         # VY AND VX
         scale_factor = 0.15
