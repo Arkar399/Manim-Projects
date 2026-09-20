@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/CS (genius)/Git hub/Manim-Projects/video_scripts/media/videos/part_8_(friction)/1080p60/partial_movie_files/Friction/819936691_3047489884_2626645868.mp4'
+file 'file:C:/CS (genius)/Git hub/Manim-Projects/video_scripts/media/videos/part_8_(friction)/1080p60/partial_movie_files/Friction/2213807979_546684608_2881185705.mp4'
+file 'file:C:/CS (genius)/Git hub/Manim-Projects/video_scripts/media/videos/part_8_(friction)/1080p60/partial_movie_files/Friction/2213807979_3483195821_1689851785.mp4'
+file 'file:C:/CS (genius)/Git hub/Manim-Projects/video_scripts/media/videos/part_8_(friction)/1080p60/partial_movie_files/Friction/2213807979_47391556_3958687859.mp4'
+file 'file:C:/CS (genius)/Git hub/Manim-Projects/video_scripts/media/videos/part_8_(friction)/1080p60/partial_movie_files/Friction/2213807979_533374436_4149830070.mp4'
+file 'file:C:/CS (genius)/Git hub/Manim-Projects/video_scripts/media/videos/part_8_(friction)/1080p60/partial_movie_files/Friction/2213807979_546684608_1987270391.mp4'
+file 'file:C:/CS (genius)/Git hub/Manim-Projects/video_scripts/media/videos/part_8_(friction)/1080p60/partial_movie_files/Friction/2213807979_1121764135_2260898106.mp4'
