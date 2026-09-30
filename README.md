@@ -4,4 +4,4 @@ This is a compilation of code I wrote to generate physics simulations using mani
 
 The simulations been uploaded to my TikTok account to easily document and present them to the wider audience.
 
-Account ---> https://www.tiktok.com/@z__math__
+Account ---> https://www.tiktok.com/@z__math
