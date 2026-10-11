@@ -1,0 +1,13 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/CS (genius)/Git hub/Manim-Projects/video_scripts/media/videos/part_10_(newtons_cradle)/1080p60/partial_movie_files/NewtonsCradle/819936691_2340045384_1355395161.mp4'
+file 'file:C:/CS (genius)/Git hub/Manim-Projects/video_scripts/media/videos/part_10_(newtons_cradle)/1080p60/partial_movie_files/NewtonsCradle/2213807979_4031021234_350704138.mp4'
+file 'file:C:/CS (genius)/Git hub/Manim-Projects/video_scripts/media/videos/part_10_(newtons_cradle)/1080p60/partial_movie_files/NewtonsCradle/2213807979_2970544619_3904378426.mp4'
+file 'file:C:/CS (genius)/Git hub/Manim-Projects/video_scripts/media/videos/part_10_(newtons_cradle)/1080p60/partial_movie_files/NewtonsCradle/2213807979_4079261071_1817548376.mp4'
+file 'file:C:/CS (genius)/Git hub/Manim-Projects/video_scripts/media/videos/part_10_(newtons_cradle)/1080p60/partial_movie_files/NewtonsCradle/2213807979_2340045384_3460705265.mp4'
+file 'file:C:/CS (genius)/Git hub/Manim-Projects/video_scripts/media/videos/part_10_(newtons_cradle)/1080p60/partial_movie_files/NewtonsCradle/2213807979_4031021234_350704138.mp4'
+file 'file:C:/CS (genius)/Git hub/Manim-Projects/video_scripts/media/videos/part_10_(newtons_cradle)/1080p60/partial_movie_files/NewtonsCradle/2213807979_2970544619_3904378426.mp4'
+file 'file:C:/CS (genius)/Git hub/Manim-Projects/video_scripts/media/videos/part_10_(newtons_cradle)/1080p60/partial_movie_files/NewtonsCradle/2213807979_4079261071_1817548376.mp4'
+file 'file:C:/CS (genius)/Git hub/Manim-Projects/video_scripts/media/videos/part_10_(newtons_cradle)/1080p60/partial_movie_files/NewtonsCradle/2213807979_2340045384_3460705265.mp4'
+file 'file:C:/CS (genius)/Git hub/Manim-Projects/video_scripts/media/videos/part_10_(newtons_cradle)/1080p60/partial_movie_files/NewtonsCradle/2213807979_4031021234_350704138.mp4'
+file 'file:C:/CS (genius)/Git hub/Manim-Projects/video_scripts/media/videos/part_10_(newtons_cradle)/1080p60/partial_movie_files/NewtonsCradle/2213807979_2970544619_3904378426.mp4'
+file 'file:C:/CS (genius)/Git hub/Manim-Projects/video_scripts/media/videos/part_10_(newtons_cradle)/1080p60/partial_movie_files/NewtonsCradle/2213807979_4079261071_1817548376.mp4'
