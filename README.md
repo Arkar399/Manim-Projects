@@ -2,6 +2,6 @@
 
 This is a compilation of code I wrote to generate physics simulations using manim and manim-physics.
 
-The simulations been uploaded to my TikTok account to easily document and present them to the wider audience.
+The simulations been uploaded to my TikTok account to easily document and present them to a wider audience.
 
 Account ---> https://www.tiktok.com/@z__math
